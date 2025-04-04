@@ -18,7 +18,7 @@ fn main() -> ! {
         Baudrate::BAUD115200,
     );
 
-    writeln!(serial, "Hello from microbit!")?;
+    writeln!(serial, "Hello from microbit!");
 
     loop {}
 }

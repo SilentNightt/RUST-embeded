@@ -19,7 +19,7 @@
             "coreConfigs": [ 
                 { 
                     "coreIndex": 0,
-                    "programBinary": "target/thumbv7em-none-eabihf/debug/raw_mmio"
+                    "programBinary": "target/thumbv7em-none-eabihf/debug/hello"
                 }       
             ],
             "env": 
